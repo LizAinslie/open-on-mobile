@@ -1,0 +1,12 @@
+{
+  "name": "open-on-device",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "repository": "git@github.com:LizAinslie/open-on-mobile.git",
+  "author": "Liz Ainslie <lizainslie16@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
